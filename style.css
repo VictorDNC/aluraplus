@@ -34,7 +34,7 @@ body {
 }
 
 .principal {
-    background-image: url("/image/Background.png");
+    background-image: url("./image/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
